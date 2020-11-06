@@ -1,0 +1,7 @@
+0,R,q0 0,R,q1 1,R,q0 1,R,q1 2,R,q0 2,R,q1 3,R,q0 3,R,q1 4,R,q0 4,R,q1 ^,R,q2
+5,R,q0 5,R,q1 6,R,q0 6,R,q1 7,R,q0 7,R,q1 8,R,q0 8,R,q1 9,R,q0 9,R,q1 ^,R,q3
+X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX 0,N,q4
+X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX X,X,XX 1,N,q4
+^,L,q4 ^,L,q4 ^,L,q4 ^,L,q4 ^,L,q4 ^,L,q4 ^,L,q4 ^,L,q4 ^,L,q4 ^,L,q4 ^,L,q5
+^,L,q5 ^,L,q5 ^,L,q5 ^,L,q5 ^,L,q5 ^,L,q5 ^,L,q5 ^,L,q5 ^,L,q5 ^,L,q5 ^,R,!
+0

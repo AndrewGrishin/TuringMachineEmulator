@@ -1,0 +1,4 @@
+0,R,X 1,R,X 2,R,X 3,R,X 4,R,X 5,R,X 6,R,X 7,R,X 8,R,X 9,R,X ^,L,Y
+0,L,Y 2,L,Y 4,L,Y 6,L,Y 8,L,Y 0,L,Z 2,L,Z 4,L,Z 6,L,Z 8,L,Z ^,R,!
+1,L,Y 3,L,Y 5,L,Y 7,L,Y 9,L,Y 1,L,Z 3,L,Z 5,L,Z 7,L,Z 9,L,Z 1,R,!
+0

@@ -1,0 +1,11 @@
+^,R,q0 ^,R,q0 X,X,XX X,X,XX %,L,q1
+^,L,q1 ^,L,q1 X,X,XX X,X,XX =,R,q2
+_,N,q3 _,N,q6 X,X,XX _,L,q8 ^,R,q2
+X,X,XX X,X,XX ^,L,q4 X,X,XX ^,L,q3
+^,L,q4 ^,L,q4 X,X,XX X,X,XX a,R,q5
+^,R,q5 ^,R,q5 ^,R,q2 X,X,XX X,X,XX
+X,X,XX X,X,XX ^,L,q7 X,X,XX ^,L,q6
+^,L,q7 ^,L,q7 X,X,XX X,X,XX b,R,q5
+X,X,XX X,X,XX _,L,q9 X,X,XX ^,L,q8
+^,L,q9 ^,L,q9 X,X,XX X,X,XX ^,R,!
+0
